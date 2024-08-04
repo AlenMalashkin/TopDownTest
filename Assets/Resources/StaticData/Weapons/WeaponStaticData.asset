@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c434b28af145b892eb0dd431999887, type: 3}
+  m_Name: WeaponStaticData
+  m_EditorClassIdentifier: 
+  _weapons:
+  - Type: 0
+    Prefab: {fileID: 6435037533783829703, guid: f4b0f213b57567746a22151bd497f5d9, type: 3}
+    Damage: 3
+    FireRate: 2
+  - Type: 1
+    Prefab: {fileID: 8768377056087295191, guid: c7a6551898485d24ca3a4b391ac72924, type: 3}
+    Damage: 1
+    FireRate: 10
+  - Type: 2
+    Prefab: {fileID: 9088504091062102116, guid: 10c427ed9eaa8824b994c89dfb82c785, type: 3}
+    Damage: 2
+    FireRate: 1.5
+  - Type: 3
+    Prefab: {fileID: 4746183761967259355, guid: a88a93f5034e83447951affdfd3fb5bd, type: 3}
+    Damage: 10
+    FireRate: 0.66

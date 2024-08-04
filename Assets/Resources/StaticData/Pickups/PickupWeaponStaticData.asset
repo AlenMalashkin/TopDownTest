@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b280ef8ecd4c05ab60fb1420543bb3, type: 3}
+  m_Name: PickupWeaponStaticData
+  m_EditorClassIdentifier: 
+  _pickupWeapons:
+  - Type: 0
+    Prefab: {fileID: 904851371449725083, guid: c5ed6738d7b07934e93e3d45c6ab6ce9, type: 3}
+  - Type: 1
+    Prefab: {fileID: 904851371449725083, guid: cfa448e68f850944c80da5a6e8bf49cd, type: 3}
+  - Type: 2
+    Prefab: {fileID: 904851371449725083, guid: fdd0b55d6887a4446957f2e745eb202f, type: 3}
+  - Type: 3
+    Prefab: {fileID: 904851371449725083, guid: a89ff275c6844c843992c021f1c369a3, type: 3}
